@@ -1,11 +1,15 @@
 {
   "name": "typescript-homework-module-3",
   "version": "1.0.0",
-  "description": "",
+  "description": "homework-3",
   "keywords": [],
-  "author": "",
+  "author": "Andrii <goncharukam@gmail.com>",
   "license": "ISC",
   "dependencies": {
     "typescript": "^5.1.5"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   }
 }
